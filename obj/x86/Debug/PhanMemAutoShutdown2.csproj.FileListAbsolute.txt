@@ -1,0 +1,18 @@
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\bin\Debug\PhanMemAutoShutdown2.exe
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\bin\Debug\PhanMemAutoShutdown2.pdb
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.Form1.resources
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.Properties.Resources.resources
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.exe
+C:\Users\dankie\Documents\Visual Studio 2010\Projects\Working\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.pdb
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\bin\Debug\PhanMemAutoShutdown2.exe
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\bin\Debug\PhanMemAutoShutdown2.pdb
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.csprojAssemblyReference.cache
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.Properties.Resources.resources
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.csproj.GenerateResource.cache
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.csproj.CoreCompileInputs.cache
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.exe
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.pdb
+D:\software\VisualStudioProjects\PhanMemAutoShutdown2\PhanMemAutoShutdown2\obj\x86\Debug\PhanMemAutoShutdown2.Form1.resources
